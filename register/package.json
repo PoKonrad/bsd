@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "protocol-registry": "^1.3.15"
+  }
+}
